@@ -1,9 +1,7 @@
 ### 👋 Hi there, I'm Eduardo Brunaldi
 
 
-I am a Software Engineer from Brazil with a focus on **Backend-Systems**, **Microservices** and **System-Design**.
-
-### 🔭 I’m currently working on creating samples repositories
+I am a Software Engineer from Brazil with a focus on **Backend**, **Microservices** and **Kotlin/Java**.
 
 ### 📫 How to reach me:
 
